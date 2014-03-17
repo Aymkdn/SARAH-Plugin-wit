@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "wit"  : {
+      "description": "Permet de dialoguer en utilisant wit.ai",
+      "version" : "0.1",
+      "code_api": "KTKHHT2JH7U6ALAV3VBVBKLQUI4LOHAG"
+    }
+  }
+}
