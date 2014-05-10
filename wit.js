@@ -22,7 +22,7 @@ var requestURL = function(options){
   http.get({
     headers: {"Authorization": "Bearer "+options.api},
     hostname: "api.wit.ai",
-    path: "/message?q="+encodeURIComponent(options.data)
+    path: "/message?v=20140401&q="+encodeURIComponent(options.data)
   }, function(res) {
     var buffer=[]
     res.on('data', function (chunk) {
