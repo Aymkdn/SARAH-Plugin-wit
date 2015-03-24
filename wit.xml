@@ -3,7 +3,7 @@
     <example>Hé SARAH</example>
     <tag>out.action=new Object();</tag>
     
-    <item>OK Sarah</item><ruleref special="GARBAGE" />
+    <item>Jessica</item><ruleref special="GARBAGE" />
     <tag>out.action._attributes.dictation="true";</tag>
     <tag>out.action._attributes.uri="http://127.0.0.1:8080/sarah/wit";</tag>
   </rule> 
