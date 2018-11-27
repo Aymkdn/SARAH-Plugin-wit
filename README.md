@@ -1,6 +1,8 @@
 SARAH-Plugin-wit
 ================
 
+**EDIT** : je n'utilise plus SARAH et je me maintenant suis tourné vers [https://aymkdn.github.io/assistant-plugins/](https://aymkdn.github.io/assistant-plugins/)
+
 Test d'un plugin avec https://wit.ai
 
 Voir la documentation.
