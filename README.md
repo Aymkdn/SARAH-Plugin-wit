@@ -1,7 +1,7 @@
 SARAH-Plugin-wit
 ================
 
-**EDIT** : je n'utilise plus SARAH et je me maintenant suis tourné vers [https://aymkdn.github.io/assistant-plugins/](https://aymkdn.github.io/assistant-plugins/)
+**EDIT** : je n'utilise plus SARAH mais [https://aymkdn.github.io/assistant-plugins/](https://aymkdn.github.io/assistant-plugins/) désormais.
 
 Test d'un plugin avec https://wit.ai
 
